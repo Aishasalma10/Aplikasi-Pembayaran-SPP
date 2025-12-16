@@ -1,0 +1,72 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Laporan Transaksi Pembayaran SPP</title>
+</head>
+
+<body>
+
+
+<p align="center" img="img/dosq15.jpg"></p>
+<p align="center">LAPORAN TRANSAKSI PEMBAYARAN SPP</p>
+<p align="center">SMAS MUHAMMADIYAH 15 JAKARTA</p><br>
+<p align="left">Dari Tanggal 	: 2024-07-01 <br>
+				Sampai Tanggal 	: 2024-08-07</p>
+<p>&nbsp;</p>
+
+  	<table border="2" align="center">
+			<thead>
+				<tr>
+					<th scope="col">NO</th>
+					<th scope="col">NISN</th>
+					<th scope="col">NIS</th>
+					<th scope="col">NAMA</th>
+					<th scope="col">BULAN</th>
+					<th scope="col">TANGGAL BAYAR</th>
+					<th scope="col">JUMLAH</th>
+				</tr>
+			</thead>
+		<tbody>
+			            <tr>
+                <td><center>1</td></center>
+				<td>19210987</td>
+				<td>0987</td>
+				<td>Azhka Putra Pratama</td>
+				<td><center>JULI</td></center>
+				<td><center>2024-07-02</td></center>
+				<td><center>600000</td></center>
+            </tr> 
+			            <tr>
+                <td><center>2</td></center>
+				<td>19210853</td>
+				<td>0853</td>
+				<td>Ahmad Ramzy</td>
+				<td><center>JULI</td></center>
+				<td><center>2024-07-03</td></center>
+				<td><center>600000</td></center>
+            </tr> 
+			            <tr>
+                <td><center>3</td></center>
+				<td>19210798</td>
+				<td>0798</td>
+				<td>Najwa Kayla</td>
+				<td><center>JULI</td></center>
+				<td><center>2024-07-03</td></center>
+				<td><center>600000</td></center>
+            </tr> 
+			            <tr>
+                <td><center>4</td></center>
+				<td>19211054</td>
+				<td>1054</td>
+				<td>Kania Dwi Komara</td>
+				<td><center>JULI</td></center>
+				<td><center>2024-07-04</td></center>
+				<td><center>600000</td></center>
+            </tr> 
+					</tbody>
+    </table>	
+</body>
+</html>

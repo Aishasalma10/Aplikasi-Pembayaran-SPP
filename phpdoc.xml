@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdoc>
+    <title>My Project Documentation</title>
+    <directories>
+        <directory>C:\xampp\htdocs\Aplikasi Pembayaran SPP</directory> <!-- Sesuaikan dengan direktori kode sumber Anda -->
+    </directories>
+    <target>./docs</target>
+</phpdoc>
